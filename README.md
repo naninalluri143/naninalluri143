@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naninalluri143&show_icons=true&locale=en" alt="naninalluri143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naninalluri143&" alt="naninalluri143" /></p>
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="seshasrinivas" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
