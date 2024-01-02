@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sesha Srinivas Nalluri</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
+<img align="right" alt="coding-gif" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naninalluri143&label=Profile%20views&color=0e75b6&style=flat" alt="naninalluri143" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naninalluri143" alt="naninalluri143" /></a> </p>
