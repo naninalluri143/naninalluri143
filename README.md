@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sesha Srinivas Nalluri</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-![Banner-img](Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png)
+<!-- Your banner image -->
+<img src="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png" alt="Banner Image" style="width:100%;">
+<!-- Your content below the banner image -->
 
 <img align="right" style="max-width:200px;height:auto" alt="coding-gif" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naninalluri143&label=Profile%20views&color=0e75b6&style=flat" alt="naninalluri143" /> </p>
